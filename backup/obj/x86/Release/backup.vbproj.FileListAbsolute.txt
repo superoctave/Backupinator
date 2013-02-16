@@ -1,0 +1,17 @@
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\bin\Release\backupinator.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\bin\Release\backupinator.pdb
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\bin\Release\backupinator.xml
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.frm_log.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.Form1.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.frm_about.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.frm_close.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.frm_enterregistrationkey.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.frm_running.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.frm_settings.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.exe
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.xml
+C:\Users\Matthew\Documents\Visual Studio 2010\Projects\backup\backup\obj\x86\Release\backupinator.pdb
